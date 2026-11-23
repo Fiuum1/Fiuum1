@@ -54,6 +54,9 @@ An **agentic intrusion detection system**: a Random Forest classifier flags susp
 </table>
 </div>
 
+## 🚧 More on the way
+I'm preparing more of my repositories and personal projects to publish here.
+
 <div align="center">
 
 <br>
@@ -63,3 +66,5 @@ An **agentic intrusion detection system**: a Random Forest classifier flags susp
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer" alt="" width="100%">
 
 </div>
+
+
