@@ -12,31 +12,47 @@
 
 <br>
 
+## 👋 About me
+Final-year MSc student in Computer Engineering (Cybersecurity) at the University of Naples Federico II. Defensive and offensive cybersecurity, with a focus on **AI for security**. Weighted average 29.75/30 in the MSc and 29.46/30 in the BSc (110/110 cum laude). Co-author of a paper published at AINA 2025 (Springer). Available to relocate, including abroad.
+
 ## 🔬 Thesis
-An **agentic intrusion detection system**: a Random Forest classifier plus an LLM agent (LangGraph, ReAct) that verifies each alert against **Suricata** and **Zeek** logs. Evaluated on CIC-IDS-2017 with an ablation study and a cost analysis.
+An **agentic intrusion detection system**: a Random Forest classifier flags suspicious traffic, and an LLM agent (LangGraph, ReAct) checks each verdict against two sources of evidence: the alerts raised by detection rules in an **Elastic SIEM**, and the raw **Suricata** and **Zeek** logs. Evaluated on CIC-IDS-2017 with an ablation study and a cost analysis.
 
 ## ✨ Highlights
-| | |
-|---|---|
-| 📄 **Publication** | Co-author, [AINA 2025 (Springer)](https://doi.org/10.1007/978-3-031-87766-7_30): penetration testing of an autonomous vehicle |
-| 🕵️ **Experience** | Cyber Threat Intelligence intern, KPMG TACTIC (2025) |
-| 🎓 **Grades** | MSc 29.75/30 · BSc 110/110 cum laude |
+<table>
+  <tr>
+    <td>📄 <b>Publication</b></td>
+    <td>Co-author, <a href="https://doi.org/10.1007/978-3-031-87766-7_30">AINA 2025 (Springer)</a>: penetration testing of an autonomous vehicle</td>
+  </tr>
+  <tr>
+    <td>🕵️ <b>Experience</b></td>
+    <td>Cyber Threat Intelligence intern, KPMG TACTIC (2025)</td>
+  </tr>
+</table>
 
 ## 🧰 Toolbox
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/Solidity-0d1117?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
-  <img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logoColor=white" alt="LangGraph">
-  <img src="https://img.shields.io/badge/Suricata-0d1117?style=flat-square&logoColor=white" alt="Suricata">
-  <img src="https://img.shields.io/badge/Zeek-0d1117?style=flat-square&logoColor=white" alt="Zeek">
-  <img src="https://img.shields.io/badge/Elastic-0d1117?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elastic">
-  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Kali%20Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/MISP-0d1117?style=flat-square&logoColor=white" alt="MISP">
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0d1117?style=flat-square&logoColor=white" alt="MITRE ATT&CK">
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="150"><a href="https://suricata.io"><img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" height="70" alt="Suricata"></a><br><b>Suricata</b></td>
+    <td align="center" width="150"><a href="https://zeek.org"><img src="https://github.com/zeek.png?size=140" height="70" alt="Zeek"></a><br><b>Zeek</b></td>
+    <td align="center" width="150"><a href="https://www.elastic.co/elastic-stack"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/elasticsearch/00BFB3"><img src="https://cdn.simpleicons.org/elasticsearch" height="70" alt="Elastic"></picture></a><br><b>Elastic</b></td>
+    <td align="center" width="150"><a href="https://www.wireshark.org"><img src="https://cdn.simpleicons.org/wireshark" height="70" alt="Wireshark"></a><br><b>Wireshark</b></td>
+    <td align="center" width="150"><a href="https://attack.mitre.org"><img src="https://github.com/mitre-attack.png?size=140" height="70" alt="MITRE ATT&CK"></a><br><b>MITRE ATT&amp;CK</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><a href="https://www.kali.org"><img src="https://cdn.simpleicons.org/kalilinux" height="70" alt="Kali Linux"></a><br><b>Kali Linux</b></td>
+    <td align="center" width="150"><a href="https://www.misp-project.org"><img src="https://github.com/MISP.png?size=140" height="70" alt="MISP"></a><br><b>MISP</b></td>
+    <td align="center" width="150"><a href="https://www.python.org"><img src="https://cdn.simpleicons.org/python" height="70" alt="Python"></a><br><b>Python</b></td>
+    <td align="center" width="150"><a href="https://soliditylang.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/solidity/white"><img src="https://cdn.simpleicons.org/solidity" height="70" alt="Solidity"></picture></a><br><b>Solidity</b></td>
+    <td align="center" width="150"><a href="https://www.langchain.com/langgraph"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langgraph/white"><img src="https://cdn.simpleicons.org/langgraph" height="70" alt="LangGraph"></picture></a><br><b>LangGraph</b></td>
+  </tr>
+</table>
+</div>
 
 <div align="center">
+
+<br>
 
 <a href="https://www.linkedin.com/in/fabio-fiumara-845586360/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
