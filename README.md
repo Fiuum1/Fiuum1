@@ -55,7 +55,8 @@ An **agentic intrusion detection system**: a Random Forest classifier flags susp
 </div>
 
 ## 🚧 More on the way
-I'm preparing more of my repositories and personal projects to publish here.
+I'm currently selecting, cleaning up and organizing the repositories I want to showcase. 
+The pinned repositories below are not my final selection: the curated set will replace them.
 
 <div align="center">
 
