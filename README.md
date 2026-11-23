@@ -28,6 +28,11 @@ An **agentic intrusion detection system**: a Random Forest classifier flags susp
     <td>🕵️ <b>Experience</b></td>
     <td>Cyber Threat Intelligence intern, KPMG TACTIC (2025)</td>
   </tr>
+  <tr>
+    <td>💻 <b>Training</b></td>
+    <td>CyberChallenge.it 2022, the CINI national cybersecurity programme: admitted through national selection, 12 weeks of training with CTF exercises, a local and a national competition</td>
+  </tr>
+  </td> <td></td> </tr> </table>
 </table>
 
 ## 🧰 Toolbox
