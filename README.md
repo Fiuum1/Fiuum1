@@ -21,15 +21,15 @@ An **agentic intrusion detection system**: a Random Forest classifier flags susp
 ## ✨ Highlights
 <table>
   <tr>
-    <td>📄 <b>Publication</b></td>
+    <td width="170">📄 <b>Publication</b></td>
     <td>Co-author, <a href="https://doi.org/10.1007/978-3-031-87766-7_30">AINA 2025 (Springer)</a>: penetration testing of an autonomous vehicle</td>
   </tr>
   <tr>
-    <td>🕵️ <b>Experience</b></td>
+    <td width="170">🕵️ <b>Experience</b></td>
     <td>Cyber Threat Intelligence intern, KPMG TACTIC (2025)</td>
   </tr>
   <tr>
-    <td>💻 <b>Training</b></td>
+    <td width="170">💻 <b>Training</b></td>
     <td>CyberChallenge.it 2022, the CINI national cybersecurity programme: admitted through national selection, 12 weeks of training with CTF exercises, a local and a national competition</td>
   </tr>
 </table>
