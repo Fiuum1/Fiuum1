@@ -15,7 +15,7 @@
 ## 👋 About me
 Final-year MSc student in Computer Engineering (Cybersecurity) at the University of Naples Federico II. Defensive and offensive cybersecurity, with a focus on **AI for security**. Weighted average 29.75/30 in the MSc and 29.46/30 in the BSc (110/110 cum laude). Co-author of a paper published at AINA 2025 (Springer). Available to relocate, including abroad.
 
-## 🔬 Thesis
+## 🔬 Currently working on
 An **agentic intrusion detection system**: a Random Forest classifier flags suspicious traffic, and an LLM agent (LangGraph, ReAct) checks each verdict against two sources of evidence: the alerts raised by detection rules in an **Elastic SIEM**, and the raw **Suricata** and **Zeek** logs. Evaluated on CIC-IDS-2017 with an ablation study and a cost analysis.
 
 ## ✨ Highlights
