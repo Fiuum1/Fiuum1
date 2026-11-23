@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a6e,100:1f6feb&height=190&section=header&text=Fabio%20Fiumara&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20AI%20for%20Security&descSize=18&descAlignY=60" alt="Fabio Fiumara" width="100%">
 
-<a href="https://github.com/Fiuum1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=MSc+Cybersecurity+%40+Federico+II+%28Dec+2026%29;Intrusion+detection+%C2%B7+LLM+agents+%C2%B7+Threat+intel;Open+to+relocating+abroad" alt="Typing animation"></a>
+<a href="https://github.com/Fiuum1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=MSc+Cybersecurity+%40+Federico+II;Intrusion+detection+%C2%B7+LLM+agents+%C2%B7+Threat+intel;Open+to+relocating+abroad" alt="Typing animation"></a>
 
 <br>
 
